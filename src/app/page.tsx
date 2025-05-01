@@ -8,7 +8,7 @@ export default function Home() {
         href="https://aws.amazon.com/ko/amplify/"
         target="_blank"
       >
-        AWS Amplify 알아보기
+        AWS Amplify 알아보기!
       </Link>
     </main>
   );
